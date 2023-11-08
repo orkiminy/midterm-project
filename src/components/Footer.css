@@ -1,0 +1,15 @@
+footer {
+  background-color: red;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  margin: 3px 20px 0px 1800px;
+}
+
+footer p {
+  color: purple;
+  background-color: red;
+  margin: 3px 20px 0px 1800px;
+}
